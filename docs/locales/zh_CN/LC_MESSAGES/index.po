@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, WoodOxen
+# This file is distributed under the same license as the TACTICS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TACTICS \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-06 16:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/index.rst:9
+msgid "Contents:"
+msgstr ""
+
+#: ../../source/index.rst:7 22573d64eb5a4ec7a8108b51ddbbac46
+msgid "Welcome to TACTICS's documentation!"
+msgstr ""
+
+#: ../../source/index.rst:16 ad596f5ccce04e0a9fe8d3a66f2ad11c
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../source/index.rst:18 66a4ba93883f4d2082c9216f84d9cf28
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:19 2c0e0ab05bf44e21aac197ed7a779e97
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:20 4f38286036b945a6b6f11ee1a80ba885
+msgid ":ref:`search`"
+msgstr ""
+
