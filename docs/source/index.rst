@@ -13,3 +13,5 @@ Welcome to TACTICS's documentation!
 .. toctree::
    :maxdepth: 3
    :caption: Documentation
+
+   installation

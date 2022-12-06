@@ -17,34 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.11.0\n"
 
-#: ../../source/index.rst:13 7545046c11e044bc9de65c30814216aa
-msgid "Documentation"
+#: ../../source/installation.md:1 d62ea34ebc6b4c41825cdd3fa1f75559
+msgid "Installation"
 msgstr ""
-
-#: ../../source/index.rst:7 4cd18df6289a4d15aa18b5b5d3114222
-msgid "Home"
-msgstr ""
-
-#: ../../source/index.rst:10 308a09c43b3f4e07b40385c5cb088282
-msgid "About"
-msgstr ""
-
-#: ../../source/index.rst:11 22573d64eb5a4ec7a8108b51ddbbac46
-msgid "Welcome to TACTICS's documentation!"
-msgstr ""
-
-#~ msgid "Contents:"
-#~ msgstr ""
-
-#~ msgid "Indices and tables"
-#~ msgstr ""
-
-#~ msgid ":ref:`genindex`"
-#~ msgstr ""
-
-#~ msgid ":ref:`modindex`"
-#~ msgstr ""
-
-#~ msgid ":ref:`search`"
-#~ msgstr ""
 
